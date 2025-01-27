@@ -1,4 +1,4 @@
-Transfer Learning utilizando Phyton para classificação entre cavalo e humanos
+Transfer Learning utilizando Phyton para classificação entre cavalo e humanos;
 Rede utilizada: ResNet50 - imagenet
 Dataset: tensorflow
 Pré-processamento dos dados: As imagens foram redimensionadas para 224x224 pixels e normalizadas para atender aos requisitos do modelo ResNet50.
